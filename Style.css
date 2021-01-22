@@ -17,7 +17,12 @@ bio1 {
     background-color: aquamarine;
 }
 
-bio1 {
+bio2 {
     text-align: center;
     background-color: antiquewhite;
+}
+
+bio3 {
+    text-align: center;
+    background-color: aliceblue;
 }
