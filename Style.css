@@ -1,4 +1,23 @@
-body{
- text-align: center;
- background-color: aqua;
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+#welcome {
+    text-align: center;
+}
+
+#img_1 {
+    text-align: center;
+    margin-left: 580px;
+}
+
+bio1 {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+bio1 {
+    text-align: center;
+    background-color: antiquewhite;
 }
